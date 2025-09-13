@@ -1,0 +1,15 @@
+AI Usage Journal
+Kurt Wills
+bwills1@terpmail.umd.edu
+Section 0203
+
+Week 1
+Used AI to help remember the structure of an if-else statement.
+Used AI to revise a different and more efficient way of matching words without having
+to write a whole if else statement to make a boolean.
+Used AI to revise my code so that strip and replace could go in the same line rather than
+in a different line of code and therefore having to make more variables than needed.
+Used AI to find out how to print digits behind a specific period
+
+Overall, most AI usage was to briefly refresh on the formatting of different functions
+that I wasn't completely clear on but still had some memory of knowing how to do.
