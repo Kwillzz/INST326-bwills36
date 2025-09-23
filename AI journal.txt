@@ -13,3 +13,9 @@ Used AI to find out how to print digits behind a specific period
 
 Overall, most AI usage was to briefly refresh on the formatting of different functions
 that I wasn't completely clear on but still had some memory of knowing how to do.
+
+Week 2
+Used AI to help remember formatting of a for i in range loop because I sometimes have trouble translating
+it into something I can comprehend in my head. Some of the exercises that seemed to need the use of len
+were also a bit confusing to me, so I used AI to explain variations of how to use it so I can use it to print
+the information that I need to print.
