@@ -19,3 +19,9 @@ Used AI to help remember formatting of a for i in range loop because I sometimes
 it into something I can comprehend in my head. Some of the exercises that seemed to need the use of len
 were also a bit confusing to me, so I used AI to explain variations of how to use it so I can use it to print
 the information that I need to print.
+
+Week 3
+Used AI to help with similar things like last week, for i in range and figuring out how to use enumerate in a for
+loop properly, as well as using it to remind me what certain functions like .title or reminding me that .startswith can
+be useful while searching for something. Also used AI to help clarify syntax like using the not function and double negatives
+while searching through books that were available.
