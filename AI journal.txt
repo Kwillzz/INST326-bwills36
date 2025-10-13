@@ -30,3 +30,8 @@ Week 4
 Used AI to clarify why assertions weren't working. Also used AI to figure out why certain code worked while another didn't despite
 thinking my existing code functioned like it should. Also used AI to remind myself of the differnt words to use for lists, dictionaries, and sets
 because of their similarities, and used it to remind myself that I can't change certain things the way I can with others. 
+
+Week 5
+I used AI mostly for cases in which setting the variables to public or private and how that would change how I wanted to change or normalize a string.
+I also used AI to figure out syntax and small things that were causing me to print out something similar to what was asked but wasn't exactly what should've been the output.
+Changing strings and storing them in a private variable gave me the most difficulties, so I used AI to explain why what I did wasn't working and what to do to fix it.
