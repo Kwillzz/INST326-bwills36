@@ -35,3 +35,9 @@ Week 5
 I used AI mostly for cases in which setting the variables to public or private and how that would change how I wanted to change or normalize a string.
 I also used AI to figure out syntax and small things that were causing me to print out something similar to what was asked but wasn't exactly what should've been the output.
 Changing strings and storing them in a private variable gave me the most difficulties, so I used AI to explain why what I did wasn't working and what to do to fix it.
+
+Week 6
+I used AI to help further clarify the instructions and to make my existing code more efficient using less lines of code.
+Some code was inefficient and was more of a wraparound way to do things, so I had AI explain to me what the new streamlined code
+does and I chose if I liked that better or not for my own future reference.
+I had it explain to me when to use def init and when not to, and when to use static methods vs class methods becuase that's still unclear.
