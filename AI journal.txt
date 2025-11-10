@@ -41,3 +41,7 @@ I used AI to help further clarify the instructions and to make my existing code 
 Some code was inefficient and was more of a wraparound way to do things, so I had AI explain to me what the new streamlined code
 does and I chose if I liked that better or not for my own future reference.
 I had it explain to me when to use def init and when not to, and when to use static methods vs class methods becuase that's still unclear.
+
+week 7
+Used AI to help with syntax and minor error fixes and to understand what exactly the assignment was asking. 
+(Some parts of the assignment required an error message to be displayed without breaking the program but I got confused on what that would look like in google colab)
