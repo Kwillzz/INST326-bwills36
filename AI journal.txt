@@ -45,3 +45,7 @@ I had it explain to me when to use def init and when not to, and when to use sta
 week 7
 Used AI to help with syntax and minor error fixes and to understand what exactly the assignment was asking. 
 (Some parts of the assignment required an error message to be displayed without breaking the program but I got confused on what that would look like in google colab)
+
+Week 8
+Used AI to check for syntax errors and testing to understand why my code wasn't working properly. Also used AI to help format and understand what the assignment was asking for and
+give example tests for the output to verify that my code worked
