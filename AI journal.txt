@@ -49,3 +49,7 @@ Used AI to help with syntax and minor error fixes and to understand what exactly
 Week 8
 Used AI to check for syntax errors and testing to understand why my code wasn't working properly. Also used AI to help format and understand what the assignment was asking for and
 give example tests for the output to verify that my code worked
+
+Week 9
+Used AI to better explain abstract classes, abstract properties, and virtual subclasses. Used it to elaborate on what I should do and used it to test and spot errors in my code and give 
+hints as to what went wrong, why, and how I should fix it to achieve the output I wanted. 
