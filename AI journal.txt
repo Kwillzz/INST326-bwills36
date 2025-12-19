@@ -53,3 +53,10 @@ give example tests for the output to verify that my code worked
 Week 9
 Used AI to better explain abstract classes, abstract properties, and virtual subclasses. Used it to elaborate on what I should do and used it to test and spot errors in my code and give 
 hints as to what went wrong, why, and how I should fix it to achieve the output I wanted. 
+
+Week 10
+Used AI to make sure I remember how getters and setters work, and why __post_init__ is needed for dataclasses and how the routing for it works.
+Also used AI to ask which attributes should be mutable (_copies) vs immutable (isbn, Author) and how that affects hashing or identity.
+Provide clear examples and explain debugging for customizing special methods like __bool__. Also used it for testing at the very end of the assignment to make sure the required things validate and function properly as outlined.
+Week 12
+No lecture this week or for week 11, but we used AI to help test and spot bugs in our project's code and used it to help us finalize 
