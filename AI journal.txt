@@ -59,4 +59,10 @@ Used AI to make sure I remember how getters and setters work, and why __post_ini
 Also used AI to ask which attributes should be mutable (_copies) vs immutable (isbn, Author) and how that affects hashing or identity.
 Provide clear examples and explain debugging for customizing special methods like __bool__. Also used it for testing at the very end of the assignment to make sure the required things validate and function properly as outlined.
 Week 12
-No lecture this week or for week 11, but we used AI to help test and spot bugs in our project's code and used it to help us finalize 
+No lecture this week or for week 11, but we used AI to help test and spot bugs in our project's code to make it run better. I used it to better structure classes and suggested changes to Connor's work to meet guidelines for project 2 and 3.
+
+Week 13
+I used AI to test the program for bugs and to help clean up code that we missed and enhance code from previous projects and prioritized using it for functions regarding the JSON files, trying to
+have the JSON files and the data inside to be structured the way we want it to be structured. 
+Also used AI while meeting with Connor to help format and correct syntax for some other classes and testing for bugs.
+Mostly used it for syntax and formatting corrections for classes as well as bug testing.
